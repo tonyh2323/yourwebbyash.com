@@ -6,6 +6,10 @@ h1,h2{
 ul{
     color:gray;
 }
+body {
+    background-image: url('./images/background.jpg');
+    background-repeat: no-repeat;
+  }
 .logo {
     margin: auto;
     display: block;
@@ -38,3 +42,15 @@ ul{
     background-color: #04AA6D;
     color: white;
   }
+  main {
+    display: block;
+
+  }
+  .portrait{
+    text-align: center;
+    width: 300px;
+  }
+  .about-me-container{
+    display:flex;
+  }
+
